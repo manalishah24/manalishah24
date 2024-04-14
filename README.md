@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **game AI development**
      
- 💻  I enjoy solving coding challenges on **LeetCode. Check out my profile [here](https://github.com/manalishah24/manalishah24/issues)!**
+ 💻  I enjoy solving coding challenges on **LeetCode. Check out my profile [here](https://leetcode.com/manalis97/)!**
  
  💬 Ask me about **tech solution👩‍💻, life advice🤣, books📚, food🍜🍱🍕 or anything..**
 
