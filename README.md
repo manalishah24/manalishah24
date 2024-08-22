@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **game AI development**
+ 🔭 I possess a Master's degree in Computer Science
      
  💻  I enjoy solving coding challenges on **LeetCode. Check out my profile [here](https://leetcode.com/manalis97/)!**
  
