@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I possess a Master's degree in Computer Science
+ 🔭 I possess a Master's degree in Computer Science. **You can view my portfolio [here](https://manalishah24.github.io/)!**
      
  💻  I enjoy solving coding challenges on **LeetCode. Check out my profile [here](https://leetcode.com/manalis97/)!**
  
